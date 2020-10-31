@@ -8,9 +8,9 @@ CC-PY-Chromedriver (W) is a program that will facilitate the authentication and 
 
 <-- How to use -->
 
-First check if you have Chrome browser installed. If not, install it. Then check if you have Chromedriver already downloaded. If not, download chromedriver (watch your Chrome-browser version) and put the driver inside the ‘driver’ folder. If there is no ‘driver’ folder you can create one manually.
+First check if you have Chrome browser and python installed. If not, install them. Then check if you have Chromedriver already downloaded. If not, download chromedriver (watch your Chrome-browser version) and put the driver inside the ‘driver’ folder. If there is no ‘driver’ folder you can create one manually.
 
-To start the program simply run python cc-py-chromedriver.pyc
+To start the program simply run python cc-py-chromedriver.pyc from CMD (Terminal) or double click on cc-py-chromedriver.pyc 
 
 <-- Dependences -->
 
